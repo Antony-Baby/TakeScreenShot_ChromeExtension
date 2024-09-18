@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Take Screenshot",
-    "version": "1.0",
+    "version": "1.0.1",
     "description": "Generates Screenshots",
     "permissions": ["activeTab"],
     "browser_action": {
