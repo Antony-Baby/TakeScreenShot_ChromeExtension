@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "Autobots Recorder",
+    "version": "1.0",
+    "description": "Generate relative xpaths with ease",
+    "permissions": ["activeTab"],
+    "browser_action": {
+      "default_icon": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+      },
+      "default_title": "Xpath Generator",
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+    }
+  }
