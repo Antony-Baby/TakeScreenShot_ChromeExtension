@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
-    "name": "Autobots Recorder",
+    "name": "Take Screenshot",
     "version": "1.0",
-    "description": "Generate relative xpaths with ease",
+    "description": "Generates Screenshots",
     "permissions": ["activeTab"],
     "browser_action": {
       "default_icon": {
@@ -10,7 +10,7 @@
         "48": "images/icon48.png",
         "128": "images/icon128.png"
       },
-      "default_title": "Xpath Generator",
+      "default_title": "Screenshot Generator",
       "default_popup": "popup.html"
     },
     "icons": {
